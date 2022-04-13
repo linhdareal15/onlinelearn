@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type>
+        <setting_type_id>1</setting_type_id>
+        <setting_type_name>Role</setting_type_name>
+    </type>
+    <type>
+        <setting_type_id>2</setting_type_id>
+        <setting_type_name>Sale</setting_type_name>
+    </type>
+    <type>
+        <setting_type_id>3</setting_type_id>
+        <setting_type_name>Tag</setting_type_name>
+    </type>
+    <type>
+        <setting_type_id>4</setting_type_id>
+        <setting_type_name>Course</setting_type_name>
+    </type>
+    <type>
+        <setting_type_id>5</setting_type_id>
+        <setting_type_name>Subject</setting_type_name>
+    </type>
+    <type>
+        <setting_type_id>6</setting_type_id>
+        <setting_type_name>Lesson</setting_type_name>
+    </type>
+ 
+</types>
